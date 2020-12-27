@@ -19,7 +19,9 @@ También será necesario tener todos los plugin en sus respectivas versiones.
 (Si alguien añade un nuevo plugin, que lo añada a la lista).<br>
 -WooCommerce 4.8.0<br>
 -WooCommerce Shipping & Tax 1.25.3<br>
--Ultimate Member 2.1.13<br>
+-Ultimate Member 2.1.15<br>
+-Paid Memberships pro 2.5.2<br>
+-Paid Memberships Pro - WooCommerce Add On 1.7<br>
 
 Usuario administrador <br>
 user: admin<br>
