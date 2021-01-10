@@ -12,7 +12,7 @@ Instalación:<br>
 4- Abrir XAMPP y darle a "Start" en Apache y MSYQL.<br>
 5- Abrir la consola de la base de datos pulsando "Admin" en MYSQL.<br>
 6- Crear una base datos con nombre "coronagym"<br>
-7- Introducir archivo "wp-config.php" en la carpeta "\htdocs\wordpress", depende de donde se tengo instalado XAMPP.
+7- Introducir archivo "wp-config.php" en la carpeta "\htdocs\wordpress", depende de donde se tengo instalado XAMPP.<br>
 8- Introducir en el buscador http://localhost/wordpress. Se ejecutará la instalación de wordpress.<br>
 9- Importar la base de datos MySQL que encontramos en este repositorio wordpress/coronagym.sql<br>
 
