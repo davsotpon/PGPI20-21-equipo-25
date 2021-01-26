@@ -28,4 +28,15 @@ Usuario administrador <br>
 user: admin<br>
 pass: admin<br>
 
+A continuacion se explica el funcionamiento basico del sistema:
 
+- Pagina principal: Permite conocer mas acerca de la aplicacion y de los desarrolladores, ademas de permitir acceder a las redes sociales.
+- Iniciar sesion: Permite iniciar sesion si no se esta iniciado. Tanbien permite registrarse en el sistema.
+- Administrar: Permite administrar el sistema y acceder a informacion reservada a administradores o miembros. Solo estos dos tipos de ususaior pueden acceder a esta pagina.
+- Contenido: Permite ver los productos disponibles dependiendo de si se posee suscripcion o no.
+- Carrito: Permite ver los productos selecionados para su compra.
+- Mi perfil: Permite ver la informacion del usuario y modificarla, ver su tipo de suscripcion y cancelarla, y ver sus facturas pasadas.
+- Tipos de suscripcion: Permite ver todos los tipos de suscripcion y adquirirlas.
+- Salir: Permite desconectarse del sistema.
+
+Si el usuario no ha iniciado sesion, solo podra acceder a la pagina principal y aal inicio de sesion. 
